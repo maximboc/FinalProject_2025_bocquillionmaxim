@@ -78,6 +78,12 @@ KuaiRec
 
 **Important note**: This project leaves room for creativity. Different students might take different paths in preprocessing, modelling, and evaluation. What matters is your ability to justify each step with solid reasoning.
 
+## Project architecture
+
+- `EDA` : Folder containing analysis on the different provided datasets
+- `models` : Folder containing implemented models
+- `img` : Folder containing images displayed in some of the notebooks
+
 ## Deliverables
 
 I expect you to send me an email with a link to your GitHub repo. If the repo is private, please add me as a collaborator.
