@@ -81,7 +81,7 @@ KuaiRec
 ## Project architecture
 
 - `EDA` : Folder containing analysis on the different provided datasets
-- `models` : Folder containing implemented models
+- `models` : Folder containing tests on different models
 - `img` : Folder containing images displayed in some of the notebooks
 
 ## Deliverables
