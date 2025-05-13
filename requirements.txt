@@ -1,1 +1,7 @@
-langdect
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+implicit
+langdetect
