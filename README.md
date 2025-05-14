@@ -34,7 +34,7 @@ unzip KuaiRec.zip
 
 ### Dataset description
 
-KuaiRec contains millions of user-item interactions as well as side information including the item categories and a social network. Six files are included in the download data:
+KuaiRec contains millions of user-item interactions as well as side information including the item categories and a social network. Six files are included in the downloaded data:
 
 ```bash
 KuaiRec
@@ -80,18 +80,10 @@ KuaiRec
 
 ## Project architecture
 
-- `EDA` : Folder containing analysis on the different provided datasets
-- `models` : Folder containing tests on different models
-- `img` : Folder containing images displayed in some of the notebooks
-
-## Deliverables
-
-I expect you to send me an email with a link to your GitHub repo. If the repo is private, please add me as a collaborator.
-
-- **Code**: Well-documented code in a GitHub repository. Submit a *link* to the repo.
-- **Report**: A detailed README.md explaining the methodology, experiments, results, and conclusions.
-
-**Important Note**: Please name your repo as `FinalProject_2025_<your_name>`. Not your GitHub username, or your nickname, use your real name, otherwise it will be hard for me to find your repo.
+- `EDA/` : Folder containing exploratory data analysis of the provided datasets
+- `models/` : Folder containing experiments with different models
+- `img/` : Folder containing images used in the notebooks
+-  `FinalProject_Notebook.ipynb` : Main notebook containing all relevant information
 
 ## Evaluation Criteria
 
