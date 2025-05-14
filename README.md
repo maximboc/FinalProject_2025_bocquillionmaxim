@@ -48,6 +48,8 @@ KuaiRec
   │   └── kuairec_caption_category.csv
 ```
 
+*Note: To make it work in this repository, place the KuaiRec folder inside a data_final_project/ directory at the root of the project. To do this automatically, feel free to use the FinalProject_Notebook.ipynb.*
+
 ## Tasks
 
 1. **Data Preprocessing**
@@ -83,6 +85,7 @@ KuaiRec
 - `EDA/` : Folder containing exploratory data analysis of the provided datasets
 - `models/` : Folder containing experiments with different models
 - `img/` : Folder containing images used in the notebooks
+- `data_final_project/` : Directory where the `KuaiRec` dataset will be stored (automatically downloaded from the main notebook)  
 -  `FinalProject_Notebook.ipynb` : Main notebook containing all relevant information
 
 ## Evaluation Criteria
