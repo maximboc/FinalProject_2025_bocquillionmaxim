@@ -90,5 +90,3 @@ KuaiRec
 - **Functionality**: Does your recommender provide high-quality and relevant video suggestions?
 - **Accuracy**: Did you choose meaningful metrics? How well does the model perform according to them?
 - **Documentation**: Clear, organised code and explanations of each design choice.
-
-This final project is designed to mimic real-world recommender system challenges. It’s your chance to build something scalable and practical. Good luck! 🚀
